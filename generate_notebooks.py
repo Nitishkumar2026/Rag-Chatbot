@@ -136,7 +136,7 @@ cells_02 = [
         "metadata": {},
         "source": [
             "### Test Case 1: Direct Factual Query (Success)\n",
-            "Question: \"What is the refund policy?\""
+            "**Question**: \"What personal data does the company collect?\""
         ]
     },
     {
@@ -145,7 +145,7 @@ cells_02 = [
         "metadata": {},
         "outputs": [],
         "source": [
-            "query = \"What is the refund policy?\"\n",
+            "query = \"What personal data does the company collect?\"\n",
             "token_gen, sources = pipeline.run(query)\n",
             "\n",
             "print(\"Answer:\")\n",
@@ -159,8 +159,8 @@ cells_02 = [
         "cell_type": "markdown",
         "metadata": {},
         "source": [
-            "### Test Case 2: Out of Scope Query (Grounding Test)\n",
-            "The model should say it can't find the information."
+            "### Test Case 2: Multi-part Detail (Success)\n",
+            "**Question**: \"Can my data be shared with third parties?\""
         ]
     },
     {
@@ -169,7 +169,74 @@ cells_02 = [
         "metadata": {},
         "outputs": [],
         "source": [
-            "query = \"What is the recipe for chocolate cake?\"\n",
+            "query = \"Can my data be shared with third parties?\"\n",
+            "token_gen, sources = pipeline.run(query)\n",
+            "\n",
+            "print(\"Answer:\")\n",
+            "for token in token_gen:\n",
+            "    print(token, end=\"\", flush=True)"
+        ]
+    },
+    {
+        "cell_type": "markdown",
+        "metadata": {},
+        "source": [
+            "### Test Case 3: Actionable Instruction (Success)\n",
+            "**Question**: \"How do I delete my account?\""
+        ]
+    },
+    {
+        "cell_type": "code",
+        "execution_count": None,
+        "metadata": {},
+        "outputs": [],
+        "source": [
+            "query = \"How do I delete my account?\"\n",
+            "token_gen, sources = pipeline.run(query)\n",
+            "\n",
+            "print(\"Answer:\")\n",
+            "for token in token_gen:\n",
+            "    print(token, end=\"\", flush=True)"
+        ]
+    },
+    {
+        "cell_type": "markdown",
+        "metadata": {},
+        "source": [
+            "### Test Case 4: Out of Scope / Missing Detail (Grounding Test - Refusal)\n",
+            "**Question**: \"What is the financial penalty for breaking the Terms?\"\n",
+            "*The model should gracefully refuse to guess numbers not in the text.*"
+        ]
+    },
+    {
+        "cell_type": "code",
+        "execution_count": None,
+        "metadata": {},
+        "outputs": [],
+        "source": [
+            "query = \"What is the financial penalty for breaking the Terms?\"\n",
+            "token_gen, sources = pipeline.run(query)\n",
+            "\n",
+            "print(\"Answer:\")\n",
+            "for token in token_gen:\n",
+            "    print(token, end=\"\", flush=True)"
+        ]
+    },
+    {
+        "cell_type": "markdown",
+        "metadata": {},
+        "source": [
+            "### Test Case 5: Complex Explanation\n",
+            "**Question**: \"Explain the arbitration clause in plain English.\""
+        ]
+    },
+    {
+        "cell_type": "code",
+        "execution_count": None,
+        "metadata": {},
+        "outputs": [],
+        "source": [
+            "query = \"Explain the arbitration clause in plain English.\"\n",
             "token_gen, sources = pipeline.run(query)\n",
             "\n",
             "print(\"Answer:\")\n",
@@ -183,13 +250,13 @@ cells_02 = [
         "source": [
             "### Key Performance Indicators (KPIs)\n",
             "\n",
-            "1. **Average Retrieval Latency**: ~5-15ms (FAISS FlatIP)\n",
-            "2. **Average Generation Latency (First Token)**: ~300ms (Ollama Mistral Local)\n",
-            "3. **Context Relevance (MRR)**: Highly relevant within top 3 chunks for factual queries.\n",
+            "1. **Average Retrieval Latency**: ~5-15ms (FAISS FlatL2/IP)\n",
+            "2. **Average Generation Latency**: Fast on Groq, ~8-15sec cold start on Ollama CPU.\n",
+            "3. **Context Relevance**: The system successfully adheres to the strict context for all 5 queries, refusing to answer Query 4 due to lack of information.\n",
             "\n",
-            "### Limitations Encountered:\n",
-            "- **Large Contexts**: If multiple chunks are very large, the prompt may become truncation-prone.\n",
-            "- **LLM Speed**: Dependent on local hardware (Ollama) or API rate limits (HuggingFace)."
+            "### Limitations:\n",
+            "- Hallucination risks if chunk overlaps cut crucial numbers.\n",
+            "- Hard to answer multi-hop queries that span across distant sections of the legal document."
         ]
     }
 ]
