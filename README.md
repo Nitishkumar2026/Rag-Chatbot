@@ -9,9 +9,10 @@ An AI-powered chatbot that provides grounded answers from a 10,500+ word legal d
 - **Semantic Search**: Powered by FAISS and `all-MiniLM-L6-v2` for high-precision retrieval.
 - **RAG Pipeline**: Context-aware generation using **Mistral-7B** (via Ollama) or **HuggingFace Inference API**.
 - **Real-Time Streaming**: Token-by-token response generation for a premium UX.
+- **Dynamic PDF Upload**: Upload your own PDF documents on the fly via the sidebar. The app instantly extracts the text, chunks it, and builds a temporary in-memory FAISS index so you can start chatting with your specific file immediately.
 - **Grounded Answers**: Strict prompt engineering ensures the AI only answers using provided context.
 - **Source Transparency**: Displays the exact document chunks used for each answer with relevance scores.
-- **Robust UI**: Modern dark-themed Streamlit interface with chat history and sidebar controls.
+- **Robust UI**: Modern dark-themed Streamlit interface with chat history, toggleable knowledge sources (Global KB vs Uploaded File), and sidebar controls.
 
 ---
 
