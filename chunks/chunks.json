@@ -1,0 +1,572 @@
+[
+  {
+    "id": 0,
+    "text": "DATASPHERE TECHNOLOGIES INC.\nCOMPREHENSIVE LEGAL DOCUMENTATION\n\nLast Updated: January 15, 2025\nEffective Date: February 1, 2025\n\n \nPART I: TERMS OF SERVICE\n \n\nSECTION 1: INTRODUCTION AND ACCEPTANCE OF TERMS",
+    "word_count": 28,
+    "char_count": 206
+  },
+  {
+    "id": 1,
+    "text": "PART I: TERMS OF SERVICE\n \n\nSECTION 1: INTRODUCTION AND ACCEPTANCE OF TERMS\n\nWelcome to DataSphere Technologies Inc. (\"DataSphere,\" \"Company,\" \"we,\" \"our,\" or \"us\"). These Terms of Service (\"Terms\") govern your access to and use of our artificial intelligence cloud platform, services, APIs, software, and related documentation (collectively, the \"Services\"). By accessing or using our Services, you agree to be bound by these Terms and our Privacy Policy, which is incorporated herein by reference.",
+    "word_count": 73,
+    "char_count": 499
+  },
+  {
+    "id": 2,
+    "text": "If you are entering into these Terms on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these Terms. If you do not have such authority, or if you do not agree with these Terms, you must not accept these Terms and may not use the Services.\n\nDataSphere reserves the right to update and change these Terms at any time without notice. Continued use of the Services after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms at any time at our website.",
+    "word_count": 105,
+    "char_count": 571
+  },
+  {
+    "id": 3,
+    "text": "SECTION 2: DESCRIPTION OF SERVICES\n\nDataSphere provides a suite of cloud-based artificial intelligence and machine learning services, including but not limited to:\n\n2.1 AI Model Hosting and Inference: DataSphere provides infrastructure for hosting, deploying, and running machine learning models at scale. Our platform supports models for natural language processing, computer vision, speech recognition, and other AI tasks. Users may deploy their own models or use pre-trained models available through our model marketplace.",
+    "word_count": 72,
+    "char_count": 525
+  },
+  {
+    "id": 4,
+    "text": "2.2 Data Storage and Processing: DataSphere offers secure cloud storage solutions optimized for large-scale datasets used in machine learning workflows. This includes raw data storage, preprocessed data lakes, and real-time data streaming pipelines. Our storage solutions comply with industry standards for encryption at rest and in transit.",
+    "word_count": 47,
+    "char_count": 341
+  },
+  {
+    "id": 5,
+    "text": "2.3 Vector Database Services: DataSphere provides managed vector database services for similarity search and retrieval-augmented generation (RAG) applications. Our vector databases support multiple embedding formats and indexing strategies including HNSW, IVF, and flat indexes.\n\n2.4 Training Infrastructure: DataSphere offers distributed training infrastructure including GPU clusters, TPU pods, and specialized AI accelerators. Users can train models using our managed training service or bring their own training code through our Bring Your Own Container program.",
+    "word_count": 73,
+    "char_count": 566
+  },
+  {
+    "id": 6,
+    "text": "2.5 API Access and SDKs: DataSphere provides RESTful APIs and software development kits (SDKs) for integrating our AI services into third-party applications. SDKs are available for Python, JavaScript, Java, Go, and Rust.\n\n2.6 Analytics and Monitoring: DataSphere includes built-in analytics dashboards for monitoring model performance, resource utilization, API usage, and cost management. Users can set up alerts and automated scaling policies.\n\nSECTION 3: ACCOUNT REGISTRATION AND SECURITY",
+    "word_count": 67,
+    "char_count": 491
+  },
+  {
+    "id": 7,
+    "text": "SECTION 3: ACCOUNT REGISTRATION AND SECURITY\n\n3.1 Account Creation: To access certain features of the Services, you must create an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete.",
+    "word_count": 46,
+    "char_count": 311
+  },
+  {
+    "id": 8,
+    "text": "3.2 Account Security: You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. We encourage you to use a strong, unique password and to enable multi-factor authentication (MFA) on your account. DataSphere cannot and will not be liable for any loss or damage arising from your failure to comply with the above.",
+    "word_count": 65,
+    "char_count": 393
+  },
+  {
+    "id": 9,
+    "text": "3.3 Account Types: DataSphere offers several account types including Individual, Team, Enterprise, and Academic accounts. Features, pricing, and usage limits vary by account type. DataSphere reserves the right to modify account types, features, and pricing at any time.\n\n3.4 Suspension and Termination: DataSphere reserves the right to suspend or terminate your account and access to the Services at any time, with or without notice, for conduct that we believe violates these Terms, applicable laws, or for any other reason at our sole discretion.\n\nSECTION 4: FEES, PAYMENT, AND BILLING",
+    "word_count": 89,
+    "char_count": 587
+  },
+  {
+    "id": 10,
+    "text": "SECTION 4: FEES, PAYMENT, AND BILLING\n\n4.1 Pricing: The Services are offered on a subscription basis and/or a pay-as-you-go basis. Current pricing for all Services is available at our pricing page. DataSphere reserves the right to change prices at any time, with notice to existing subscribers.\n\n4.2 Subscription Plans: DataSphere offers several subscription tiers including Starter (free), Professional ($49/month), Business ($199/month), and Enterprise (custom pricing). Each tier includes different quotas for API calls, compute hours, storage capacity, and support levels.",
+    "word_count": 80,
+    "char_count": 576
+  },
+  {
+    "id": 11,
+    "text": "4.3 Free Tier Limitations: The Starter plan includes limited free access to our Services with the following restrictions: 100,000 API calls per month, 10 GB of storage, 10 hours of compute time, and access to standard support documentation only. Usage beyond these limits will require upgrading to a paid plan.\n\n4.4 Billing Cycle: Subscription fees are billed monthly or annually, in advance. Pay-as-you-go charges are billed monthly in arrears. All fees are non-refundable except as required by law.",
+    "word_count": 78,
+    "char_count": 500
+  },
+  {
+    "id": 12,
+    "text": "4.5 Taxes: Fees do not include applicable taxes. You are responsible for paying all federal, state, local, and other governmental taxes, duties, or charges associated with your use of the Services.\n\n4.6 Late Payments: If payment is not received within 30 days of the due date, DataSphere may suspend your access to the Services until payment is received in full, plus any applicable late fees of 1.5% per month on overdue balances.\n\nSECTION 5: INTELLECTUAL PROPERTY RIGHTS",
+    "word_count": 77,
+    "char_count": 472
+  },
+  {
+    "id": 13,
+    "text": "SECTION 5: INTELLECTUAL PROPERTY RIGHTS\n\n5.1 DataSphere Ownership: The Services, including all content, features, and functionality thereof, are owned by DataSphere Technologies Inc., its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.",
+    "word_count": 52,
+    "char_count": 391
+  },
+  {
+    "id": 14,
+    "text": "5.2 License to Use Services: Subject to these Terms, DataSphere grants you a limited, non-exclusive, non-transferable, and revocable license to access and use the Services for your internal business purposes.\n\n5.3 User Content and Data: You retain all rights to data and content that you upload to the Services (\"User Data\"). By uploading User Data, you grant DataSphere a worldwide, royalty-free license to use, reproduce, process, and transmit your User Data solely for the purpose of providing and improving the Services.",
+    "word_count": 81,
+    "char_count": 524
+  },
+  {
+    "id": 15,
+    "text": "5.4 Feedback: If you provide any feedback, suggestions, or ideas about the Services (\"Feedback\"), you hereby assign to DataSphere all rights in such Feedback and agree that DataSphere shall have the right to use and fully exploit such Feedback in any manner.\n\n5.5 Model Outputs: For models trained using our platform, you own the model outputs (predictions) generated by your models. You do not own the model infrastructure, algorithms, or training code provided by DataSphere.\n\nSECTION 6: PROHIBITED USES\n\nYou agree not to use the Services to:",
+    "word_count": 87,
+    "char_count": 544
+  },
+  {
+    "id": 16,
+    "text": "SECTION 6: PROHIBITED USES\n\nYou agree not to use the Services to:\n\n6.1 Violate any applicable federal, state, local, or international law or regulation.\n\n6.2 Generate content that is harmful, offensive, discriminatory, or violates the rights of any person or entity.\n\n6.3 Create or distribute malware, spyware, or any other malicious software or code.\n\n6.4 Attempt to gain unauthorized access to any portion of the Services, other accounts, or connected systems.\n\n6.5 Use the Services to train models whose primary intended use is to spread misinformation, engage in fraud, or cause harm.",
+    "word_count": 92,
+    "char_count": 588
+  },
+  {
+    "id": 17,
+    "text": "6.6 Scrape, crawl, or spider any portion of the Services without DataSphere's written permission.\n\n6.7 Interfere with or disrupt the integrity or performance of the Services or the data contained therein.\n\n6.8 Use the Services for any form of mass surveillance, biometric identification without consent, or social scoring systems.\n\n6.9 Reverse engineer, decompile, disassemble, or attempt to derive the source code of any component of the Services.\n\nSECTION 7: DISCLAIMER OF WARRANTIES",
+    "word_count": 72,
+    "char_count": 485
+  },
+  {
+    "id": 18,
+    "text": "SECTION 7: DISCLAIMER OF WARRANTIES\n\nTHE SERVICES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. DATASPHERE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.\n\nDATASPHERE DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE, OR COMPLETELY SECURE. WE DO NOT WARRANT THAT AI-GENERATED OUTPUTS WILL BE ACCURATE, RELIABLE, OR APPROPRIATE FOR ANY PARTICULAR PURPOSE.",
+    "word_count": 81,
+    "char_count": 564
+  },
+  {
+    "id": 19,
+    "text": "SECTION 8: LIMITATION OF LIABILITY\n\nTO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL DATASPHERE, ITS AFFILIATES, LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE SERVICES.",
+    "word_count": 68,
+    "char_count": 471
+  },
+  {
+    "id": 20,
+    "text": "IN NO EVENT SHALL DATASPHERE'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THESE TERMS OR THE SERVICES EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT PAID BY YOU TO DATASPHERE IN THE TWELVE MONTHS PRECEDING THE EVENT GIVING RISE TO THE LIABILITY.\n\nSECTION 9: GOVERNING LAW AND DISPUTE RESOLUTION\n\n9.1 Governing Law: These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions.",
+    "word_count": 87,
+    "char_count": 505
+  },
+  {
+    "id": 21,
+    "text": "9.2 Arbitration: Any dispute arising from these Terms or the Services shall be resolved through binding arbitration under the American Arbitration Association (AAA) Commercial Arbitration Rules. The arbitration shall be conducted in San Francisco, California, and shall be conducted in English.\n\n9.3 Class Action Waiver: You agree to resolve disputes only on an individual basis and waive any right to bring or participate in a class action lawsuit or class-wide arbitration.",
+    "word_count": 71,
+    "char_count": 475
+  },
+  {
+    "id": 22,
+    "text": "9.4 Exceptions: Notwithstanding the arbitration clause, either party may seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement of intellectual property rights.\n\nSECTION 10: GENERAL PROVISIONS\n\n10.1 Entire Agreement: These Terms, together with the Privacy Policy and any other agreements incorporated herein, constitute the entire agreement between you and DataSphere regarding the Services.",
+    "word_count": 63,
+    "char_count": 464
+  },
+  {
+    "id": 23,
+    "text": "10.2 Severability: If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.\n\n10.3 Waiver: No waiver by DataSphere of any right or remedy shall be deemed a waiver of any prior or subsequent right or remedy.\n\n10.4 Assignment: You may not assign these Terms or any rights or obligations hereunder without DataSphere's prior written consent. DataSphere may freely assign these Terms.\n\n \nPART II: PRIVACY POLICY\n \n\nSECTION 11: PRIVACY POLICY OVERVIEW",
+    "word_count": 83,
+    "char_count": 525
+  },
+  {
+    "id": 24,
+    "text": "PART II: PRIVACY POLICY\n \n\nSECTION 11: PRIVACY POLICY OVERVIEW\n\nDataSphere Technologies Inc. is committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and protect information about you when you use our Services. This policy applies to all users of our platform, including enterprise customers, individual developers, and academic researchers.",
+    "word_count": 62,
+    "char_count": 440
+  },
+  {
+    "id": 25,
+    "text": "We handle personal data in accordance with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), and other applicable privacy laws. If you have questions about this Privacy Policy, please contact our Data Protection Officer at privacy@datasphere.ai.\n\nSECTION 12: INFORMATION WE COLLECT\n\n12.1 Information You Provide to Us:",
+    "word_count": 57,
+    "char_count": 401
+  },
+  {
+    "id": 26,
+    "text": "SECTION 12: INFORMATION WE COLLECT\n\n12.1 Information You Provide to Us:\n\nAccount Information: When you create an account, we collect your name, email address, password (stored in hashed form), billing information including credit card details (processed and stored by our payment processor, Stripe), company name, and job title.\n\nProfile Information: Information you add to your profile, including professional background, use cases, preferred programming languages, and other customization settings.",
+    "word_count": 68,
+    "char_count": 500
+  },
+  {
+    "id": 27,
+    "text": "Communication Data: When you contact our support team or engage with us through email, chat, or other communications, we collect and retain those communications.\n\nUser Data and Models: Files, datasets, code, model configurations, and any other content you upload or create through the Services. This data is stored in our secure cloud infrastructure and is handled according to your selected data residency preferences.",
+    "word_count": 63,
+    "char_count": 419
+  },
+  {
+    "id": 28,
+    "text": "Payment Information: Billing name, billing address, and payment method details. Note that full credit card numbers are never stored on our servers — they are processed directly by our PCI-DSS compliant payment provider.\n\n12.2 Information We Collect Automatically:\n\nUsage Data: We automatically collect information about how you use the Services, including API calls made, compute resources consumed, features accessed, pages visited within the dashboard, and time spent on various activities.",
+    "word_count": 70,
+    "char_count": 492
+  },
+  {
+    "id": 29,
+    "text": "Device Information: We collect information about the device and software used to access the Services, including IP address, browser type and version, operating system, device identifiers, and screen resolution.\n\nLog Data: Our servers automatically record certain information when you use the Services, including access timestamps, request and response data, error messages, and performance metrics.",
+    "word_count": 54,
+    "char_count": 398
+  },
+  {
+    "id": 30,
+    "text": "Cookies and Tracking Technologies: We use cookies, web beacons, pixels, and similar tracking technologies to enhance your experience, analyze usage patterns, and provide personalized features. See our Cookie Policy section for details.\n\n12.3 Information from Third Parties:\n\nOAuth Authentication: If you choose to sign in using Google, GitHub, or other OAuth providers, we receive basic profile information from those providers, including your name, email address, and profile picture.",
+    "word_count": 68,
+    "char_count": 485
+  },
+  {
+    "id": 31,
+    "text": "Payment Processors: We receive transaction confirmation and billing information from our payment processors, but not full payment card details.\n\nAnalytics Providers: We use Google Analytics 4 and Mixpanel to collect aggregated and anonymized usage data. These services may set their own cookies.\n\nSECTION 13: HOW WE USE YOUR INFORMATION\n\nDataSphere uses the information we collect for the following purposes:",
+    "word_count": 59,
+    "char_count": 408
+  },
+  {
+    "id": 32,
+    "text": "DataSphere uses the information we collect for the following purposes:\n\n13.1 Service Provision: To provide, operate, maintain, and improve the Services. This includes authenticating users, processing transactions, delivering requested features, and managing your account.\n\n13.2 Billing and Payments: To process payments, send invoices, manage subscriptions, detect and prevent fraud, and comply with financial regulations.",
+    "word_count": 54,
+    "char_count": 422
+  },
+  {
+    "id": 33,
+    "text": "13.3 Communication: To send you technical notices, updates, security alerts, and administrative messages. With your consent, to send marketing communications about new features, pricing changes, and other news. You may opt-out of marketing emails at any time by clicking the unsubscribe link.\n\n13.4 Personalization: To personalize your experience on the platform, including showing relevant model recommendations, tutorials, and feature suggestions based on your usage patterns.",
+    "word_count": 65,
+    "char_count": 478
+  },
+  {
+    "id": 34,
+    "text": "13.5 Research and Development: To analyze usage patterns, identify trends, and develop new features. We use aggregated and anonymized data for this purpose — we do not use your private data or models to improve our general-purpose AI without your explicit consent.\n\n13.6 Safety and Security: To detect and prevent fraudulent, abusive, or otherwise prohibited activities; to enforce our Terms of Service and other policies; and to investigate and respond to security incidents.",
+    "word_count": 73,
+    "char_count": 476
+  },
+  {
+    "id": 35,
+    "text": "13.7 Legal Compliance: To comply with applicable laws and regulations, respond to legal requests (such as court orders and subpoenas), and exercise or defend our legal rights.\n\nSECTION 14: DATA SHARING AND DISCLOSURE",
+    "word_count": 33,
+    "char_count": 216
+  },
+  {
+    "id": 36,
+    "text": "SECTION 14: DATA SHARING AND DISCLOSURE\n\n14.1 Service Providers: We share information with third-party service providers who perform services on our behalf, including cloud infrastructure providers (AWS, Google Cloud), payment processors (Stripe), email services (SendGrid), analytics providers (Google Analytics), customer support tools (Zendesk), and security monitoring services. These providers are contractually obligated to protect your information.",
+    "word_count": 56,
+    "char_count": 455
+  },
+  {
+    "id": 37,
+    "text": "14.2 Business Transfers: If DataSphere is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, your information may be transferred as part of that transaction. We will notify you via email and prominent notice on our website of any change in ownership or uses of your personal information.",
+    "word_count": 55,
+    "char_count": 330
+  },
+  {
+    "id": 38,
+    "text": "14.3 Legal Requirements: We may disclose your information if we believe in good faith that disclosure is necessary to comply with a legal obligation, protect and defend the rights or property of DataSphere, prevent or investigate possible wrongdoing in connection with the Services, or protect the personal safety of users or the public.\n\n14.4 Aggregated Data: We may share aggregated, anonymized data about our users with third parties for research, marketing, analytics, and other purposes. This data does not identify any individual user.",
+    "word_count": 83,
+    "char_count": 541
+  },
+  {
+    "id": 39,
+    "text": "14.5 With Your Consent: We will share information with third parties when you explicitly consent to such sharing.\n\nSECTION 15: DATA RETENTION\n\n15.1 Account Data: We retain your account information for as long as your account is active or as needed to provide you Services. If you close your account, we will retain certain information for a period of 90 days to allow for account reactivation, and then delete or anonymize it.",
+    "word_count": 72,
+    "char_count": 426
+  },
+  {
+    "id": 40,
+    "text": "15.2 User Data and Models: Files, datasets, and models are retained for the duration of your subscription plus a 30-day grace period after subscription ends. After this period, data may be permanently deleted. Enterprise customers with custom data retention agreements may have different retention periods.\n\n15.3 Usage Logs: Server logs and API usage data are retained for 12 months and then aggregated or deleted.\n\n15.4 Financial Records: Billing information and transaction records are retained for 7 years in compliance with financial regulations.",
+    "word_count": 82,
+    "char_count": 550
+  },
+  {
+    "id": 41,
+    "text": "15.5 Legal Hold: Notwithstanding the above, we may retain certain information for longer periods as required by legal obligations or to defend against potential legal claims.\n\nSECTION 16: YOUR PRIVACY RIGHTS\n\n16.1 Access and Portability: You have the right to request a copy of the personal information we hold about you. We provide data export functionality directly in your account dashboard, allowing you to download your data in standard formats.",
+    "word_count": 70,
+    "char_count": 450
+  },
+  {
+    "id": 42,
+    "text": "16.2 Correction: You have the right to correct inaccurate personal information. Most account information can be updated directly in the account settings.\n\n16.3 Deletion: You have the right to request deletion of your personal information (\"right to be forgotten\"). To request deletion, submit a request through the account deletion page or contact privacy@datasphere.ai. Note that some information may be retained for legal compliance purposes.",
+    "word_count": 64,
+    "char_count": 444
+  },
+  {
+    "id": 43,
+    "text": "16.4 Restriction and Objection: You have the right to restrict or object to certain types of processing of your personal information. You can object to direct marketing at any time by opting out of marketing emails.\n\n16.5 CCPA Rights: California residents have additional rights under the CCPA, including the right to know what personal information is collected, the right to know if personal information is sold or disclosed, the right to opt out of the sale of personal information, and the right to non-discrimination for exercising these rights. DataSphere does not sell personal information.",
+    "word_count": 94,
+    "char_count": 596
+  },
+  {
+    "id": 44,
+    "text": "16.6 To exercise your rights, please contact us at privacy@datasphere.ai or through the privacy request portal in your account settings. We will respond to your request within 30 days (or as required by applicable law).\n\n \nPART III: ACCEPTABLE USE POLICY\n \n\nSECTION 17: PURPOSE AND SCOPE\n\nThis Acceptable Use Policy (\"AUP\") governs the use of all services provided by DataSphere Technologies Inc. This policy applies to all users of our platform regardless of account type. Violation of this AUP may result in immediate suspension or termination of your account without refund.",
+    "word_count": 90,
+    "char_count": 577
+  },
+  {
+    "id": 45,
+    "text": "DataSphere is committed to ensuring that our platform is used responsibly and ethically. AI technology has transformative potential, but it also carries significant risks if misused. We take our responsibility seriously as a platform provider and expect all users to share this commitment to responsible AI development and deployment.\n\nSECTION 18: PROHIBITED ACTIVITIES\n\n18.1 Harmful Content Generation:",
+    "word_count": 57,
+    "char_count": 403
+  },
+  {
+    "id": 46,
+    "text": "SECTION 18: PROHIBITED ACTIVITIES\n\n18.1 Harmful Content Generation:\n\nUsers must not use DataSphere's platform to generate content that:\n- Promotes, glorifies, or incites violence against individuals or groups\n- Constitutes hate speech targeting individuals or groups based on race, ethnicity, nationality, religion, gender, sexual orientation, disability, or other protected characteristics\n- Contains child sexual abuse material (CSAM) or any content that sexualizes minors\n- Facilitates human trafficking, exploitation, or non-consensual intimate imagery\n\n18.2 Weapons and Dangerous Materials:",
+    "word_count": 77,
+    "char_count": 595
+  },
+  {
+    "id": 47,
+    "text": "18.2 Weapons and Dangerous Materials:\n\nUsers must not use the platform to:\n- Develop or assist in the development of biological, chemical, nuclear, or radiological weapons\n- Generate instructions for creating explosive devices or other weapons\n- Assist in cyberattacks, development of malicious code, or offensive security operations without explicit authorization\n- Circumvent safety measures on physical or digital systems\n\n18.3 Deception and Fraud:",
+    "word_count": 64,
+    "char_count": 451
+  },
+  {
+    "id": 48,
+    "text": "18.3 Deception and Fraud:\n\nUsers must not use DataSphere's platform for:\n- Creating deepfakes or synthetic media intended to deceive or defame individuals\n- Generating phishing emails, scam messages, or fraudulent communications\n- Impersonating individuals, organizations, or legal entities without authorization\n- Creating fake reviews, misleading testimonials, or coordinated influence operations\n- Academic dishonesty or plagiarism services\n\n18.4 Privacy Violations:",
+    "word_count": 60,
+    "char_count": 469
+  },
+  {
+    "id": 49,
+    "text": "18.4 Privacy Violations:\n\nUsers must not:\n- Use our platform to process biometric data for mass surveillance without appropriate legal basis and consent\n- Create systems that aggregate personal data without proper authorization or legal basis\n- Generate code or tools specifically designed to harvest personal data without consent\n- Circumvent privacy controls or data protection measures\n\n18.5 Illegal Activities:",
+    "word_count": 60,
+    "char_count": 414
+  },
+  {
+    "id": 50,
+    "text": "18.5 Illegal Activities:\n\nAny use of the platform that violates applicable local, national, or international laws is prohibited, including but not limited to:\n- Copyright infringement (training on or reproducing copyrighted material without license)\n- Unauthorized access to computer systems or networks\n- Money laundering or financial crimes\n- Drug trafficking or promotion of illegal substances\n\nSECTION 19: RESPONSIBLE AI DEVELOPMENT",
+    "word_count": 61,
+    "char_count": 436
+  },
+  {
+    "id": 51,
+    "text": "SECTION 19: RESPONSIBLE AI DEVELOPMENT\n\n19.1 Model Documentation: Users deploying AI models that will be used by others should maintain appropriate documentation including model cards, usage guidelines, and known limitations.\n\n19.2 Testing and Evaluation: Before deploying models in production, users should conduct appropriate testing to identify potential harms, biases, and failure modes.",
+    "word_count": 52,
+    "char_count": 391
+  },
+  {
+    "id": 52,
+    "text": "19.3 Transparency: Users should be transparent about the AI nature of systems they build using our platform, particularly in consumer-facing applications, unless there is a legitimate reason for non-disclosure (e.g., security research).\n\n19.4 Human Oversight: For high-stakes applications (healthcare, legal, financial, hiring), we strongly recommend maintaining meaningful human oversight and not relying solely on AI outputs without validation.\n\nSECTION 20: REPORTING VIOLATIONS",
+    "word_count": 62,
+    "char_count": 480
+  },
+  {
+    "id": 53,
+    "text": "SECTION 20: REPORTING VIOLATIONS\n\nIf you become aware of any use of our platform that violates this Acceptable Use Policy, please report it immediately to:\n- Email: trust@datasphere.ai\n- In-platform: Use the \"Report Abuse\" button available on model and workspace pages\n- Emergency hotline: For urgent safety issues: +1-800-DATASPH\n\nWe review all reports and take appropriate action, which may include removing content, suspending accounts, and reporting to relevant authorities.\n\n \nPART IV: COOKIE POLICY\n \n\nSECTION 21: WHAT ARE COOKIES",
+    "word_count": 78,
+    "char_count": 536
+  },
+  {
+    "id": 54,
+    "text": "PART IV: COOKIE POLICY\n \n\nSECTION 21: WHAT ARE COOKIES\n\nCookies are small text files that are stored on your computer or mobile device when you visit a website. They are widely used to make websites work more efficiently, as well as to provide information to the owners of the site. DataSphere uses cookies and similar tracking technologies to improve your experience with our Services.\n\nSECTION 22: TYPES OF COOKIES WE USE",
+    "word_count": 71,
+    "char_count": 423
+  },
+  {
+    "id": 55,
+    "text": "SECTION 22: TYPES OF COOKIES WE USE\n\n22.1 Strictly Necessary Cookies: These cookies are essential for the operation of our website and Services. They enable core functionality such as security, session management, and authentication. Without these cookies, certain features of the Services would not function. These cookies cannot be disabled.\n\nExamples include:\n- Session cookies that maintain your logged-in state\n- Security cookies that help prevent cross-site request forgery (CSRF) attacks\n- Load balancing cookies to distribute traffic across our servers",
+    "word_count": 81,
+    "char_count": 560
+  },
+  {
+    "id": 56,
+    "text": "22.2 Performance and Analytics Cookies: These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. This helps us improve the performance and structure of our site.\n\nWe use the following analytics tools:\n- Google Analytics 4 (with IP anonymization enabled)\n- Mixpanel for product analytics\n- DataDog for infrastructure monitoring",
+    "word_count": 57,
+    "char_count": 394
+  },
+  {
+    "id": 57,
+    "text": "22.3 Functionality Cookies: These cookies enable the website to provide enhanced features and personalization. They may be set by us or by third-party providers whose services we have added to our pages.\n\nExamples include:\n- Language preference cookies\n- Theme preference (light/dark mode) cookies\n- Regional settings cookies\n\n22.4 Targeting and Marketing Cookies: These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites.",
+    "word_count": 87,
+    "char_count": 561
+  },
+  {
+    "id": 58,
+    "text": "We currently use the following marketing tools:\n- Google Ads conversion tracking\n- LinkedIn Insight Tag\n- Intercom for in-app messaging and support\n\nSECTION 23: MANAGING YOUR COOKIE PREFERENCES\n\nYou can control and manage cookies through your browser settings and through our Cookie Preference Center, accessible from the footer of our website. Note that disabling certain cookies may affect the functionality of our Services.",
+    "word_count": 64,
+    "char_count": 426
+  },
+  {
+    "id": 59,
+    "text": "Major browser cookie management links:\n- Google Chrome: Settings > Privacy and Security > Cookies\n- Mozilla Firefox: Options > Privacy & Security > Cookies\n- Safari: Preferences > Privacy > Cookies\n- Microsoft Edge: Settings > Cookies and Site Permissions\n\nTo opt out of Google Analytics tracking across all websites, you can install the Google Analytics Opt-out Browser Add-on.\n\n \nPART V: DATA PROCESSING AGREEMENT\n \n\nSECTION 24: DATA PROCESSING AGREEMENT OVERVIEW",
+    "word_count": 71,
+    "char_count": 465
+  },
+  {
+    "id": 60,
+    "text": "SECTION 24: DATA PROCESSING AGREEMENT OVERVIEW\n\nThis Data Processing Agreement (\"DPA\") forms part of the agreement between DataSphere Technologies Inc. (\"Processor\") and the customer entity executing this agreement (\"Controller\") and sets out the terms on which the Processor will process personal data on behalf of the Controller in connection with the Services.",
+    "word_count": 52,
+    "char_count": 363
+  },
+  {
+    "id": 61,
+    "text": "This DPA shall apply in addition to the Terms of Service and is incorporated therein by reference. In the event of any conflict between this DPA and the Terms of Service, this DPA shall take precedence with respect to data protection matters.\n\nSECTION 25: SCOPE AND ROLES\n\n25.1 Subject Matter: The subject matter of the processing is the provision of the Services as described in the Terms of Service. The Processor will process personal data solely in accordance with the Controller's documented instructions.",
+    "word_count": 83,
+    "char_count": 510
+  },
+  {
+    "id": 62,
+    "text": "25.2 Nature and Purpose of Processing: The Processor processes personal data to deliver the cloud AI platform and associated services, including model training, inference, data storage, and API services.\n\n25.3 Types of Personal Data: The types of personal data processed may include identifiers (names, email addresses, IP addresses), professional information, usage data, and any personal data contained within datasets or models uploaded by the Controller.",
+    "word_count": 65,
+    "char_count": 458
+  },
+  {
+    "id": 63,
+    "text": "25.4 Categories of Data Subjects: Data subjects may include the Controller's employees, customers, partners, or any other individuals whose personal data is included in data uploaded to the platform.\n\n25.5 Duration of Processing: Processing will continue for the term of the Services agreement plus any retention periods specified in the Privacy Policy.\n\nSECTION 26: PROCESSOR OBLIGATIONS",
+    "word_count": 56,
+    "char_count": 388
+  },
+  {
+    "id": 64,
+    "text": "SECTION 26: PROCESSOR OBLIGATIONS\n\n26.1 Instructions: The Processor shall process personal data only on the documented instructions of the Controller, including with regard to transfers of personal data to a third country, unless required to do so by applicable law.\n\n26.2 Confidentiality: The Processor shall ensure that persons authorized to process personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.",
+    "word_count": 67,
+    "char_count": 479
+  },
+  {
+    "id": 65,
+    "text": "26.3 Security: The Processor shall implement and maintain appropriate technical and organizational security measures to protect personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage.",
+    "word_count": 28,
+    "char_count": 227
+  },
+  {
+    "id": 66,
+    "text": "DataSphere's security measures include:\n- AES-256 encryption at rest for all stored data\n- TLS 1.3 encryption for all data in transit\n- SOC 2 Type II certification (audited annually)\n- ISO 27001 certification\n- Penetration testing conducted quarterly by independent third parties\n- 24/7 security monitoring and incident response\n- Access controls based on principle of least privilege\n- Multi-factor authentication for all internal access",
+    "word_count": 66,
+    "char_count": 438
+  },
+  {
+    "id": 67,
+    "text": "26.4 Sub-processors: The Processor shall not engage another processor without prior written authorization from the Controller. DataSphere's current list of approved sub-processors includes Amazon Web Services (infrastructure), Google Cloud Platform (additional infrastructure), Stripe (payments), Cloudflare (CDN and DDoS protection), and PagerDuty (incident management).\n\n26.5 Data Subject Rights: The Processor shall assist the Controller in fulfilling its obligations to respond to requests from data subjects exercising their rights under applicable data protection law.",
+    "word_count": 72,
+    "char_count": 574
+  },
+  {
+    "id": 68,
+    "text": "26.6 Data Breach Notification: The Processor shall notify the Controller without undue delay after becoming aware of a personal data breach. Notification shall include a description of the nature of the breach, categories and approximate number of data subjects concerned, likely consequences of the breach, and measures taken or proposed to address the breach.\n\n26.7 Deletion or Return of Data: Upon termination of the Services agreement, the Processor shall, at the choice of the Controller, delete or return all personal data and delete existing copies unless applicable law requires retention.",
+    "word_count": 90,
+    "char_count": 597
+  },
+  {
+    "id": 69,
+    "text": "SECTION 27: INTERNATIONAL DATA TRANSFERS\n\n27.1 DataSphere's primary data centers are located in the United States. For customers in the European Economic Area (EEA), United Kingdom, or other regions with data transfer restrictions, DataSphere provides the following mechanisms for lawful data transfers:\n\nStandard Contractual Clauses (SCCs): DataSphere has executed the European Commission's standard contractual clauses for transfers of personal data from the EEA to third countries. These are available upon request.",
+    "word_count": 71,
+    "char_count": 518
+  },
+  {
+    "id": 70,
+    "text": "UK IDTA: For transfers from the United Kingdom, DataSphere has adopted the UK International Data Transfer Agreement (IDTA).\n\nData Residency Options: Enterprise customers may request data residency in specific geographic regions including EU (Frankfurt, Germany), Asia-Pacific (Singapore or Tokyo), or United States (Virginia or Oregon).\n\n27.2 DataSphere participates in and complies with the EU-U.S. Data Privacy Framework (DPF) and the Swiss-U.S. Data Privacy Framework. For more information about the DPF, visit the U.S. Department of Commerce website.",
+    "word_count": 77,
+    "char_count": 554
+  },
+  {
+    "id": 71,
+    "text": "PART VI: REFUND AND CANCELLATION POLICY\n \n\nSECTION 28: SUBSCRIPTION CANCELLATION\n\n28.1 How to Cancel: You may cancel your subscription at any time through your account dashboard under Settings > Billing > Cancel Subscription. Cancellation will take effect at the end of the current billing period. You will retain access to paid features until the end of the period for which you have already paid.",
+    "word_count": 64,
+    "char_count": 398
+  },
+  {
+    "id": 72,
+    "text": "28.2 Effect of Cancellation: Upon cancellation, your account will be downgraded to the free Starter tier (if available) or deactivated. Your data will be retained for 30 days following cancellation to allow for reactivation or data export. After 30 days, data may be permanently deleted.\n\n28.3 Annual Subscriptions: If you cancel an annual subscription before the end of the annual term, you will not receive a refund for the remaining months unless covered by our refund policy.\n\nSECTION 29: REFUND POLICY\n\n29.1 Eligible Refunds: DataSphere offers refunds in the following cases:",
+    "word_count": 91,
+    "char_count": 580
+  },
+  {
+    "id": 73,
+    "text": "29.1 Eligible Refunds: DataSphere offers refunds in the following cases:\n\nService Outage Credit: If the Services experience downtime exceeding our SLA commitments (99.9% monthly uptime for paid plans), you may be eligible for a service credit. Credits are calculated as the pro-rated amount for the downtime period and applied to future billing cycles.",
+    "word_count": 53,
+    "char_count": 352
+  },
+  {
+    "id": 74,
+    "text": "30-Day Money-Back Guarantee: New subscribers to the Professional or Business plan are eligible for a full refund within the first 30 days if they are unsatisfied with the Services. This guarantee applies once per customer and does not apply to Enterprise plans or upgrades between paid plans.\n\nBilling Errors: If you were charged incorrectly due to a billing error on our part, you are entitled to a full refund of the erroneous charge.",
+    "word_count": 73,
+    "char_count": 436
+  },
+  {
+    "id": 75,
+    "text": "29.2 Non-Refundable Items: The following are non-refundable:\n- Pay-as-you-go compute charges already incurred\n- Discounted annual subscription plans (except within the first 30 days)\n- Add-on purchases for additional storage or compute credits\n- Fees charged for professional services, training, or consulting\n\n29.3 Refund Process: To request a refund, contact billing@datasphere.ai within the eligible period with your account email, order ID, and reason for the refund. Eligible refunds will be processed within 5-10 business days to the original payment method.",
+    "word_count": 80,
+    "char_count": 564
+  },
+  {
+    "id": 76,
+    "text": "PART VII: SERVICE LEVEL AGREEMENT\n \n\nSECTION 30: UPTIME COMMITMENTS\n\n30.1 Service Availability: DataSphere commits to the following monthly uptime SLAs:\n\n- Starter Plan: No SLA (best effort)\n- Professional Plan: 99.9% uptime (approximately 43 minutes downtime per month)\n- Business Plan: 99.95% uptime (approximately 22 minutes downtime per month)\n- Enterprise Plan: 99.99% uptime (approximately 4 minutes downtime per month)",
+    "word_count": 60,
+    "char_count": 425
+  },
+  {
+    "id": 77,
+    "text": "30.2 Uptime Calculation: Uptime is calculated as: (Total Minutes - Downtime Minutes) / Total Minutes * 100. Scheduled maintenance windows (announced at least 48 hours in advance) are excluded from downtime calculations.\n\n30.3 Downtime Definition: Downtime means any period longer than 1 minute during which the primary API endpoint is unresponsive to properly formed API requests. Performance degradation (slower than normal responses) does not constitute downtime unless the service is completely unavailable.\n\nSECTION 31: SUPPORT LEVELS\n\n31.1 Support Tiers by Plan:",
+    "word_count": 81,
+    "char_count": 567
+  },
+  {
+    "id": 78,
+    "text": "SECTION 31: SUPPORT LEVELS\n\n31.1 Support Tiers by Plan:\n\nStarter Plan - Community Support only (documentation, community forums)\nProfessional Plan - Standard Support: Email support with 1 business day response time\nBusiness Plan - Priority Support: Email and chat support with 4-hour response time during business hours (Monday-Friday, 9am-6pm Pacific Time)\nEnterprise Plan - Dedicated Support: 24/7 phone, email, and chat support with 1-hour response time; dedicated Customer Success Manager",
+    "word_count": 70,
+    "char_count": 492
+  },
+  {
+    "id": 79,
+    "text": "31.2 Critical Incident Response: For all paid plans, DataSphere will respond to critical incidents (complete service outages) within 1 hour and provide status updates every 30 minutes until resolved. Incident status is available at status.datasphere.ai.",
+    "word_count": 35,
+    "char_count": 253
+  },
+  {
+    "id": 80,
+    "text": "31.3 Support Channels: Support is available through the following channels based on your plan:\n- Help Center: help.datasphere.ai (all plans)\n- Community Forum: community.datasphere.ai (all plans)\n- Email: support@datasphere.ai (Professional and above)\n- Live Chat: Available in dashboard (Business and above)\n- Phone: +1-888-DATA-SPH (Enterprise only)\n\n \nPART VIII: SECURITY AND COMPLIANCE\n \n\nSECTION 32: SECURITY PRACTICES",
+    "word_count": 55,
+    "char_count": 423
+  },
+  {
+    "id": 81,
+    "text": "PART VIII: SECURITY AND COMPLIANCE\n \n\nSECTION 32: SECURITY PRACTICES\n\n32.1 Infrastructure Security: DataSphere's infrastructure operates within SOC 2 Type II certified environments. All compute, storage, and networking components are logically isolated using industry-standard virtualization and containerization technologies. We employ defense-in-depth principles with multiple layers of security controls.",
+    "word_count": 47,
+    "char_count": 407
+  },
+  {
+    "id": 82,
+    "text": "32.2 Data Encryption: All data stored in DataSphere's systems is encrypted at rest using AES-256. All data transmitted to and from our APIs is encrypted using TLS 1.3. Encryption keys are managed using hardware security modules (HSMs) and rotated regularly.\n\n32.3 Access Control: Access to DataSphere's production systems is strictly controlled. All internal access requires multi-factor authentication. Access is granted on a need-to-know basis using role-based access control (RBAC). All privileged access sessions are logged and monitored.",
+    "word_count": 77,
+    "char_count": 542
+  },
+  {
+    "id": 83,
+    "text": "32.4 Vulnerability Management: DataSphere conducts regular security assessments including:\n- Continuous automated vulnerability scanning\n- Quarterly penetration testing by independent security firms\n- Annual third-party security audits\n- Bug bounty program (details at security.datasphere.ai/bounty)",
+    "word_count": 34,
+    "char_count": 299
+  },
+  {
+    "id": 84,
+    "text": "32.5 Incident Response: DataSphere maintains a formal incident response plan with defined procedures for detecting, containing, eradicating, and recovering from security incidents. In the event of a security incident affecting your data, we will notify you in accordance with applicable laws and our DPA.\n\nSECTION 33: COMPLIANCE CERTIFICATIONS\n\nDataSphere maintains the following compliance certifications and attestations:",
+    "word_count": 56,
+    "char_count": 423
+  },
+  {
+    "id": 85,
+    "text": "DataSphere maintains the following compliance certifications and attestations:\n\n- SOC 2 Type II (Security, Availability, and Confidentiality)\n- ISO/IEC 27001:2022 (Information Security Management)\n- ISO/IEC 27701:2019 (Privacy Information Management)\n- GDPR compliance (EU General Data Protection Regulation)\n- CCPA/CPRA compliance (California Consumer Privacy Act)\n- HIPAA-eligible (available with Business Associate Agreement for Enterprise customers)\n- PCI DSS Level 1 (for payment processing)\n- FedRAMP Authorization (In Progress - expected completion Q4 2025)",
+    "word_count": 72,
+    "char_count": 564
+  },
+  {
+    "id": 86,
+    "text": "Copies of our audit reports and certifications are available to Enterprise customers under NDA. Summary reports are available upon request for all paid plan customers.\n\nSECTION 34: RESPONSIBLE DISCLOSURE\n\nDataSphere has a responsible disclosure program for security researchers. If you discover a potential security vulnerability in our platform, please report it to security@datasphere.ai. We commit to:",
+    "word_count": 56,
+    "char_count": 404
+  },
+  {
+    "id": 87,
+    "text": "- Acknowledging receipt of your report within 2 business days\n- Providing an initial assessment within 5 business days\n- Working collaboratively to understand and address the issue\n- Not pursuing legal action against researchers who follow our responsible disclosure guidelines\n- Recognizing reporters in our Security Hall of Fame (with their permission)\n- Offering rewards for qualifying vulnerabilities through our bug bounty program",
+    "word_count": 64,
+    "char_count": 435
+  },
+  {
+    "id": 88,
+    "text": "Please do not access or modify data belonging to other users, disrupt production services, or publicly disclose the vulnerability before we have had an opportunity to address it.\n\n \nPART IX: API USAGE AND RATE LIMITS\n \n\nSECTION 35: API ACCESS\n\n35.1 API Keys: Access to DataSphere APIs requires an API key, which can be generated from your account dashboard under Settings > API Keys. You may create multiple API keys with different permission scopes. API keys should be treated as passwords and never shared or committed to public code repositories.",
+    "word_count": 89,
+    "char_count": 549
+  },
+  {
+    "id": 89,
+    "text": "35.2 API Versioning: DataSphere follows semantic versioning for its APIs. We maintain backwards compatibility within major versions. When making breaking changes, we release a new major version and provide at least 12 months of migration support for the previous version.\n\n35.3 Current API versions:\n- Inference API: v2 (current), v1 (legacy, deprecated January 2025)\n- Storage API: v1 (current)\n- Training API: v1 (current)\n- Vector DB API: v1 (current)\n\nSECTION 36: RATE LIMITS\n\n36.1 Default Rate Limits by Plan:",
+    "word_count": 80,
+    "char_count": 514
+  },
+  {
+    "id": 90,
+    "text": "SECTION 36: RATE LIMITS\n\n36.1 Default Rate Limits by Plan:\n\nStarter Plan:\n- 100,000 API calls per month\n- 10 requests per second (RPS)\n- Maximum payload size: 10 MB per request\n- Concurrent training jobs: 1\n- Model deployments: 2\n\nProfessional Plan:\n- 2,000,000 API calls per month\n- 100 requests per second (RPS)\n- Maximum payload size: 100 MB per request\n- Concurrent training jobs: 5\n- Model deployments: 10\n\nBusiness Plan:\n- 20,000,000 API calls per month\n- 500 requests per second (RPS)\n- Maximum payload size: 1 GB per request\n- Concurrent training jobs: 20\n- Model deployments: 50",
+    "word_count": 103,
+    "char_count": 587
+  },
+  {
+    "id": 91,
+    "text": "Enterprise Plan:\n- Unlimited API calls (subject to fair use policy)\n- Custom RPS limits\n- Custom payload size limits\n- Unlimited concurrent training jobs\n- Unlimited model deployments\n\n36.2 Rate Limit Headers: API responses include headers indicating your current rate limit status:\n- X-RateLimit-Limit: Your total rate limit\n- X-RateLimit-Remaining: Remaining calls in current window\n- X-RateLimit-Reset: Unix timestamp when the rate limit resets",
+    "word_count": 65,
+    "char_count": 447
+  },
+  {
+    "id": 92,
+    "text": "36.3 Exceeding Rate Limits: Requests that exceed your rate limits will receive a 429 Too Many Requests response. Implement exponential backoff with jitter in your API clients to handle rate limiting gracefully.\n\n \nPART X: CHANGES AND CONTACT INFORMATION\n \n\nSECTION 37: CHANGES TO THESE POLICIES\n\nDataSphere reserves the right to modify these policies at any time. We will provide notice of material changes through:\n- Email notification to the address associated with your account\n- Prominent notice in the DataSphere dashboard\n- Update to the \"Last Updated\" date at the top of this document",
+    "word_count": 93,
+    "char_count": 591
+  },
+  {
+    "id": 93,
+    "text": "We encourage you to review our policies periodically to stay informed about our practices. Your continued use of the Services after changes are posted constitutes your acceptance of such changes.\n\nFor changes to the Privacy Policy that materially affect how we handle personal data, we will provide at least 30 days advance notice before the changes take effect.\n\nSECTION 38: CONTACT INFORMATION\n\nFor questions, concerns, or requests related to these policies, you may contact us at:\n\nDataSphere Technologies Inc.\n100 Innovation Drive, Suite 2500\nSan Francisco, CA 94105\nUnited States",
+    "word_count": 90,
+    "char_count": 584
+  },
+  {
+    "id": 94,
+    "text": "General Inquiries: hello@datasphere.ai\nSupport: support@datasphere.ai\nPrivacy: privacy@datasphere.ai\nSecurity: security@datasphere.ai\nLegal: legal@datasphere.ai\nBilling: billing@datasphere.ai\n\nData Protection Officer (DPO):\ndpo@datasphere.ai\n\nEU Representative (GDPR):\nDataSphere EU Representative GmbH\nUnter den Linden 10\n10117 Berlin, Germany\neu-privacy@datasphere.ai\n\nFor urgent matters, our 24/7 security hotline is available at +1-888-DATASPH.\n\n \nEND OF DATASPHERE TECHNOLOGIES INC. LEGAL DOCUMENTATION\nVersion 3.2 | Effective February 1, 2025",
+    "word_count": 58,
+    "char_count": 548
+  }
+]
